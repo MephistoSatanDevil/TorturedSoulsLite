@@ -24,6 +24,10 @@ LANGUAGE ~English~
 ~english~
 ~TorturedSoulsLite/tra/english/setup.tra~
 
+LANGUAGE ~Simplified Chinese~
+~schinese~
+~TorturedSoulsLite/tra/schinese/setup.tra~
+
 /////////////////////
 //Main Component
 /////////////////////
